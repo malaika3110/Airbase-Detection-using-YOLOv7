@@ -1,0 +1,16 @@
+names:
+- fighter
+- hanger
+- wide-body
+- narrow-body
+- rotorcraft
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: airbases-pg8qc
+  url: https://universe.roboflow.com/national-university-of-sciences-and-technology-nust-vhj2w/airbases-pg8qc/dataset/13
+  version: 13
+  workspace: national-university-of-sciences-and-technology-nust-vhj2w
+test: /content/Airbases-13/test/images
+train: /content/Airbases-13/train/images
+val: /content/Airbases-13/valid/images
